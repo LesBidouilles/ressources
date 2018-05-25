@@ -6,6 +6,16 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 
 ---
 
+## Logiciel
+
+### Développement
+
+#### Web design :
+- [Comprendre le fonctionnement du module flex CSS3](https://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
+
+#### Expressions régulières :
+- [Regex (Regular Expression) debugger](https://www.regextester.com/)
+
 ## Machines
 
 ### Découpe Laser
@@ -15,3 +25,4 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 - [EN] [Test, prise en main](https://mitxela.com/projects/laser_cutter) Article de blog sur la prise en main de la K40
 - [EN] [FAQ](https://k40laser.se/) FAQ traitant presque tout les points de la K40
 - **[FR]** [Présentation + Mod](https://wiki.labomedia.org/index.php/Lasercut) Présentation et mod de la K40 par le Labomedia
+
