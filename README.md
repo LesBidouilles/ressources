@@ -5,9 +5,8 @@ N'hésitez pas d'ouvrir des Isssues ou des Pull requests
 
 ---
 
-#### Tutoriels :
-- Web front-end :
-	- [Comprendre le fonctionnement du module flex CSS3](https://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
+#### Web design :
+- [Comprendre le fonctionnement du module flex CSS3](https://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
 
-#### Outils :
+#### Expressions régulières :
 - [Regex (Regular Expression) debugger](https://www.regextester.com/)
