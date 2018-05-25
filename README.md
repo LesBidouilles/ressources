@@ -1,10 +1,4 @@
-# Ressources
 
-Liste de liens, blogs, outils, ressources, ...
-
-N'hésitez pas d'ouvrir des Issues ou des Pull requests
-
----
 ## Sites de documentation d'objets généralistes
 - [EN] [Instructable, le plus gros, polyvalent] (https://www.instructables.com/)
 - [EN] [Thingiverse, axé I3D] (https://www.thingiverse.com/)
