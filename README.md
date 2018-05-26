@@ -34,10 +34,10 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 ### Développement
 
 #### Web design :
-- [Comprendre le fonctionnement du module flex CSS3](https://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
+- [FR] [Comprendre le fonctionnement du module flex CSS3](https://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
 
 #### Expressions régulières :
-- [Regex (Regular Expression) debugger](https://www.regextester.com/)
+- [EN] [Regex (Regular Expression) debugger](https://www.regextester.com/)
 
 ## Machines
 
@@ -47,4 +47,7 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 - [EN] [Groupe Google+](https://plus.google.com/communities/118113483589382049502) Groupe Google+ anglophone
 - [EN] [Test, prise en main](https://mitxela.com/projects/laser_cutter) Article de blog sur la prise en main de la K40
 - [EN] [FAQ](https://k40laser.se/) FAQ traitant presque tout les points de la K40
-- **[FR]** [Présentation + Mod](https://wiki.labomedia.org/index.php/Lasercut) Présentation et mod de la K40 par le Labomedia
+- [FR] [Présentation + Mod](https://wiki.labomedia.org/index.php/Lasercut) Présentation et mod de la K40 par le Labomedia
+
+## Modélisation
+- [FR] [Initiation OpenSCAD](https://wiki.lghs.be/tuto:openscad) - Initiation à OpenSCAD (2D 3D) du Liège Hackerspace (Belgique)
