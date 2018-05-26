@@ -5,6 +5,7 @@ Liste de liens, blogs, outils, ressources, ...
 N'hésitez pas d'ouvrir des Issues ou des Pull requests
 
 ---
+<<<<<<< HEAD
 ## Sites de documentation d'objets généralistes
 - [EN] [Instructable, le plus gros, polyvalent] (https://www.instructables.com/)
 - [EN] [Thingiverse, axé I3D] (https://www.thingiverse.com/)
@@ -30,3 +31,26 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 - [FR] [Carte des fablabs] (http://www.makery.info/labs-map/)
 - [FR] [Réseau FR des fablabs] (http://www.fablab.fr/)
 - [EN] [Fablab Foundation] (http://www.fabfoundation.org/)
+=======
+
+## Logiciel
+
+### Développement
+
+#### Web design :
+- [Comprendre le fonctionnement du module flex CSS3](https://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
+
+#### Expressions régulières :
+- [Regex (Regular Expression) debugger](https://www.regextester.com/)
+
+## Machines
+
+### Découpe Laser
+
+#### K40 (Découpe laser chinoise 40w)
+- [EN] [Groupe Google+](https://plus.google.com/communities/118113483589382049502) Groupe Google+ anglophone
+- [EN] [Test, prise en main](https://mitxela.com/projects/laser_cutter) Article de blog sur la prise en main de la K40
+- [EN] [FAQ](https://k40laser.se/) FAQ traitant presque tout les points de la K40
+- **[FR]** [Présentation + Mod](https://wiki.labomedia.org/index.php/Lasercut) Présentation et mod de la K40 par le Labomedia
+
+>>>>>>> master
