@@ -31,19 +31,19 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 
 ## Logiciel
 
-### Développement
+### &emsp;Développement
 
-#### Web design :
+#### &emsp;&emsp;&emsp;Web design
 - [FR] [Comprendre le fonctionnement du module flex CSS3](https://www.alsacreations.com/tuto/lire/1493-css3-flexbox-layout-module.html)
 
-#### Expressions régulières :
+#### &emsp;&emsp;&emsp;Expressions régulières
 - [EN] [Regex (Regular Expression) debugger](https://www.regextester.com/)
 
 ## Machines
 
-### Découpe Laser
+### &emsp;Découpe Laser
 
-#### K40 (Découpe laser chinoise 40w)
+#### &emsp;&emsp;&emsp;K40 (Découpe laser chinoise 40w)
 - [EN] [Groupe Google+](https://plus.google.com/communities/118113483589382049502) Groupe Google+ anglophone
 - [EN] [Test, prise en main](https://mitxela.com/projects/laser_cutter) Article de blog sur la prise en main de la K40
 - [EN] [FAQ](https://k40laser.se/) FAQ traitant presque tout les points de la K40
