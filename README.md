@@ -49,5 +49,30 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 - [EN] [FAQ](https://k40laser.se/) FAQ traitant presque tout les points de la K40
 - [FR] [Présentation + Mod](https://wiki.labomedia.org/index.php/Lasercut) Présentation et mod de la K40 par le Labomedia
 
+##### &emsp;&emsp;&emsp;&emsp;&emsp;Lasersaur (découpe laser DIY)
+- [EN] [Site officiel](http://www.lasersaur.com/)
+- [EN] [Wikipédia](https://en.wikipedia.org/wiki/Lasersaur)
+- [EN] [Github](https://github.com/nortd/lasersaur/wiki)
+
+#### &emsp;&emsp;&emsp;Fraiseuses CNC
+
+##### &emsp;&emsp;&emsp;&emsp;&emsp;Petits portiques
+- [EN] [X carve](https://www.inventables.com/technologies/x-carve/customize#basic-kit)
+- [EN] [Shapeoko 3](https://shop.carbide3d.com/products/shapeoko3?variant=42721918086)
+- [FR] [Open maker machine](http://www.mon-fablab.fr/openmakermachinepro/)
+
+#### &emsp;&emsp;&emsp;Tour
+- [EN] [Guide d'achat pour un tour](https://hackaday.com/2018/04/24/lathe-features-you-should-choose-when-buying-your-first-machine/)
+
+#### &emsp;&emsp;&emsp;Pieces
+##### &emsp;&emsp;&emsp;&emsp;&emsp;Assemblage
+- [EN] [Open builds](https://openbuilds.com/) Profilés alu, système de guidage, machines complètes en kit, etc.
+- [EN] [Vslot Europe](http://vslot-europe.com/) Vslot (système de guidage sur profilés alu), machines complètes, système d'assemblage, etc.
+
+##### &emsp;&emsp;&emsp;&emsp;&emsp;Electronique de controle et moteurs
+- [EN] [Centroid cnc](http://www.centroidcnc.com/centroid_diy/acorn_cnc_controller.html) Matos semi pro pour fabriquer des CNC de bourrin (contrôle + moteurs)
+- [EN] [Masso](https://masso.com.au/) Matos semi pro / pro pour contrôle de fraiseuse/plasma/tour (système tout en un)
+
+
 ## Modélisation
 - [FR] [Initiation OpenSCAD](https://wiki.lghs.be/tuto:openscad) - Initiation à OpenSCAD (2D 3D) du Liège Hackerspace (Belgique)
