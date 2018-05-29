@@ -39,6 +39,19 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 #### &emsp;&emsp;&emsp;Expressions régulières
 - [EN] [Regex (Regular Expression) debugger](https://www.regextester.com/)
 
+### &emsp;API 3D
+
+#### &emsp;&emsp;&emsp;OpenGL
+
+- [FR] [FrameBufferObject en OpenGL](https://alexandre-laurent.developpez.com/tutoriels/OpenGL/OpenGL-FBO/)
+- [FR] [Les shaders dans OpenGL](https://alexandre-laurent.developpez.com/tutoriels/OpenGL/OpenGL-GLSL/)
+- [FR/EN] [The Book of Shaders](https://thebookofshaders.com)
+
+### &emsp;Languages
+
+#### &emsp;&emsp;&emsp;Assembleur
+- [FR] [Apprendre l'assembleur](https://benoit-m.developpez.com/assembleur/tutoriel/)
+
 ## Machines
 
 ### &emsp;Découpe Laser
@@ -49,7 +62,7 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 - [EN] [FAQ](https://k40laser.se/) FAQ traitant presque tout les points de la K40
 - [FR] [Présentation + Mod](https://wiki.labomedia.org/index.php/Lasercut) Présentation et mod de la K40 par le Labomedia
 
-#### &emsp;&emsp;&emsp;&emsp;&emsp;Lasersaur (découpe laser DIY)
+#### &emsp;&emsp;&emsp;Lasersaur (découpe laser DIY)
 - [EN] [Site officiel](http://www.lasersaur.com/)
 - [EN] [Wikipédia](https://en.wikipedia.org/wiki/Lasersaur)
 - [EN] [Github](https://github.com/nortd/lasersaur/wiki)
