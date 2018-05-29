@@ -4,6 +4,17 @@ Liste de liens, blogs, outils, ressources, ...
 
 N'hésitez pas d'ouvrir des Issues ou des Pull requests
 
+ - Sites de documentation d'objets généralistes
+ - Bois
+ - Usinage et CNC
+ - Fablabs
+ - Logiciel
+   - Développement
+     - Web design
+     - OpenGL
+     - Assembleur
+     
+
 ---
 
 ## Sites de documentation d'objets généralistes
