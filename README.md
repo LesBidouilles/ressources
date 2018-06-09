@@ -52,6 +52,11 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 #### &emsp;&emsp;&emsp;Assembleur
 - [FR] [Apprendre l'assembleur](https://benoit-m.developpez.com/assembleur/tutoriel/)
 
+### &emsp;Creative Coding
+
+#### &emsp;&emsp;&emsp;P5js/Processing/javascript
+- [EN] [The Coding Train](https://www.youtube.com/shiffman) - La chaine youtube de Daniel Shiffman. Contient des tutos java/javascript autour du creative coding avec les frameworks p5js et Processing. Sujets variés (Machine Learning, art génératif et algorithmique, challenges, invités...)
+
 ## Machines
 
 ### &emsp;Découpe Laser
