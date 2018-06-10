@@ -52,6 +52,11 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 #### &emsp;&emsp;&emsp;Assembleur
 - [FR] [Apprendre l'assembleur](https://benoit-m.developpez.com/assembleur/tutoriel/)
 
+### &emsp;Creative Coding
+
+#### &emsp;&emsp;&emsp;P5js/Processing/javascript
+- [EN] [The Coding Train](https://www.youtube.com/shiffman) - La chaine youtube de Daniel Shiffman. Contient des tutos java/javascript autour du creative coding avec les frameworks p5js et Processing. Sujets variés (Machine Learning, art génératif et algorithmique, challenges, invités...)
+
 ## Machines
 
 ### &emsp;Découpe Laser
@@ -89,3 +94,10 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 
 ## Modélisation
 - [FR] [Initiation OpenSCAD](https://wiki.lghs.be/tuto:openscad) - Initiation à OpenSCAD (2D 3D) du Liège Hackerspace (Belgique)
+
+## Autres listes de ressources
+- [EN] [Build your own X](https://github.com/danistefanovic/build-your-own-x) - (dev) Liste regroupant des tutos sur la création from scratch de son propre Moteur de rendu 3D; Emulateur; Framework Front-End, etc. etc.
+- [EN] [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - (dev) Resources sur les outils de creative coding (débutant et intermédiaires)
+- [EN] [Awesome Graphics Resources](https://github.com/mattdesl/graphics-resources) - (dev) Ressources sur la dev jeu video et programmation de graphismes en temps réel
+- [EN] [Awesome OpenGL] - (dev) Ressources sur la programmation openGL
+- [EN] [Machine Learning](https://github.com/mattdesl/graphics-resources) - (dev) Exemples et ressources autour du Machine Learning
