@@ -100,5 +100,5 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 - [EN] [Build your own X](https://github.com/danistefanovic/build-your-own-x) - (dev) Liste regroupant des tutos sur la création from scratch de son propre Moteur de rendu 3D; Emulateur; Framework Front-End, etc. etc.
 - [EN] [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - (dev) Resources sur les outils de creative coding (débutant et intermédiaires)
 - [EN] [Awesome Graphics Resources](https://github.com/mattdesl/graphics-resources) - (dev) Ressources sur la dev jeu video et programmation de graphismes en temps réel
-- [EN] [Awesome OpenGL] - (dev) Ressources sur la programmation openGL
+- [EN] [Awesome OpenGL](https://github.com/eug/awesome-opengl) - (dev) Ressources sur la programmation openGL
 - [EN] [Machine Learning](https://github.com/mattdesl/graphics-resources) - (dev) Exemples et ressources autour du Machine Learning
