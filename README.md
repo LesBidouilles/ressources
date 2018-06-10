@@ -56,6 +56,7 @@ N'hésitez pas d'ouvrir des Issues ou des Pull requests
 
 #### &emsp;&emsp;&emsp;P5js/Processing/javascript
 - [EN] [The Coding Train](https://www.youtube.com/shiffman) - La chaine youtube de Daniel Shiffman. Contient des tutos java/javascript autour du creative coding avec les frameworks p5js et Processing. Sujets variés (Machine Learning, art génératif et algorithmique, challenges, invités...)
+- [EN] [Pixar in a box](https://www.khanacademy.org/partner-content/pixar/) - Une série de vidéos/tutos expliquant les méthodes des studios Pixar pour la création d'animations, le rendering, les couleurs, etc.
 
 ## Machines
 
